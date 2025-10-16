@@ -6,7 +6,7 @@ EMAV (Experimental Modal Analysis Viewer) is a bespoke software tool developed i
 
 The tool supports both multi-record `.unv` and `.mat` files from testing software and single-record, linear-amplitude `.unv` files representing reconstructed signals.
 
-*(A screenshot of the EMAV GUI would be appropriate here.)*
+<img width="1198" height="829" alt="image" src="https://github.com/user-attachments/assets/045170bf-0327-4238-a7ec-56b245e3b7eb" />
 
 ---
 
